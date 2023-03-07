@@ -1,1 +1,1 @@
-{"Version":"0.0.0","Data":{"PlayerArmourSystem":"{\"Version\":\"0.0.0\",\"ArmourPieces\":[]}"}}
+{"Version":"0.0.0","Data":{"PlayerArmourSystem":"{\"Version\":\"0.0.0\",\"ArmourPieces\":[{\"ItemId\":593,\"Slot\":4,\"RemainingArmourpoints\":40.0},{\"ItemId\":593,\"Slot\":5,\"RemainingArmourpoints\":20.0},{\"ItemId\":494,\"Slot\":6,\"RemainingArmourpoints\":35.0},{\"ItemId\":494,\"Slot\":7,\"RemainingArmourpoints\":35.0},{\"ItemId\":494,\"Slot\":10,\"RemainingArmourpoints\":35.0},{\"ItemId\":494,\"Slot\":11,\"RemainingArmourpoints\":35.0}]}"}}
